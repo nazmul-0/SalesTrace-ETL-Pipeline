@@ -35,3 +35,7 @@ You have an IDENTITY column but want to insert your **own values** from the sour
    SET IDENTITY_INSERT [MDM_STAGE].[NAD_EU_XREF_NEW] ON;```
    
    also FastLoadKeepIdentity should also be turned into false 
+
+**Note
+**
+This project was developed as part of my practical learning in Learning SQK and business intelligence as part of my course. The workflow has been independently structured and documented to demonstrate real-world ETL pipeline design using SSIS.
